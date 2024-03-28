@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+.first_ul {
+    display: flex;
+    justify-content: start;
+}
+.info {
+    color: rgb(210, 119, 34);
+    font-weight: bold;
+}
+li {
+    margin-left: 40px;
+    list-style: none;
+    margin: 0 15px 0 10px;
+}
+.logo, .vector, .experts {
+    color: rgb(210, 119, 34);
+    font-family: Rubik;
+    font-size: 32px;
+    font-weight: 700;
+    /* line-height: 38px; */
+    /* letter-spacing: -2%; */
+    text-align: left;
+}
+.logo_img {
+    margin: 5px 8px 0 0;
+}
+
+.li2, .li3 {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 38px;
+    letter-spacing: -2%;
+    text-align: left; 
+}
+header {
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    border: 1px solid rgb(210, 119, 34);
+}
+.second_ul {
+    display: flex;
+    justify-content: space-evenly; 
+    margin-right: 5%; 
+}
+.lang, .usd, .info, .login {
+    margin: 0 10px 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first_container {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 70px;
+}
+.first_text {
+    width: 30%;
+}
+.cook_text {
+    /* width: 250px; */
+    font-size: 40px;
+}
+.login{
+    background-color: rgb(210, 119, 34);
+    width: 100px;
+}
+.find, .join {
+    width: 200px;
+    height: 40px;
+}
+.find, .login {
+    background-color: rgb(210, 119, 34);
+    border: 1px solid rgb(210, 119, 34);
+
+    color: white;
+}
+.join {
+    border: 3px solid rgb(210, 119, 34);
+    color: rgb(210, 119, 34);
+}
+
+/* .second_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    margin: 100px 10% 100px 10%;
+    border: 1px solid rgb(210, 119, 34);
+    border-radius: 10px;
+} */
+.img_first {
+     display: flex;
+    flex-direction: column;
+    margin: 0 25px 0 25px; 
+
+
+}
+select {
+    border: none;
+}
+.select-menu__languages {
+    position: absolute;
+    width: 12px;
+    height: 7px;
+    left: 49px;
+    right: -12px;
+    top: 15px;
+    bottom: -3px;
+    transform: rotate(-180.00deg);   
+}
+.second_container {
+    position: absolute;
+width: 1085px;
+height: 148px;
+left: 185px;
+top: 799px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 12px 23px 12px 23px;
+box-sizing: border-box;
+border: 1px solid rgb(255, 219, 184);
+border-radius: 16px;
+background: rgb(255, 253, 244);
+}
+
+

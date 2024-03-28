@@ -1,0 +1,164 @@
+.variety_sun {
+    display: flex;
+    margin-left: 20%;
+}
+
+.variety_container {
+    position: relative;
+}
+.sun_text {
+    margin-top: 60px;
+    font-size: 50px;
+}
+.texts {
+    margin-top: 0;
+    padding: 0%;
+}
+.underling_section {
+    display: flex;
+}
+
+.sun_text_second {
+    margin-left: 25%;
+    margin-top: -59px;
+    font-size: 50px;
+}
+hr {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.variety_texts, .variety_paragraf {
+    margin-left: 25%;
+}
+.underling_img {
+    position: absolute;
+    top: 250px;
+}
+.sun_awards {
+    margin-left: 45%;
+    margin-top: 100px;
+}
+.text_awards {
+    display: flex;
+    justify-content: center;
+    margin-top: -95px;
+    font-size: 50px;
+}
+/* .award_second_container {
+    position: relative;
+} */
+.containers {
+    border: 1px solid grey;
+    width: 290px;
+    height: 372px;
+    /* left: 1.17%; */
+    /* right: 76.17%; */
+    top: 17px;
+    bottom: -17px;
+}
+.award_paragraf, .award_text, .cup, .view_awards {
+    margin-left: 25%;
+}
+.cup {
+    padding-top: 30px;
+}
+.award_text {
+    width: 45%;
+}
+.arrow_awards {
+    margin-bottom: -7px;
+}
+.awards_second_container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.quality_container {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.quality_text {
+    margin-top: -92px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+.quality_text2 {
+    margin-top: -40px;
+    margin-left: 55px;
+    font-size: 50px;
+}
+.quality_fhoto {
+    display: flex;
+    width: 80%;
+    margin-left: 14%;
+    height: 488px;
+}
+.quality_paragraf {
+    height: 100%;
+    width: 30%;
+}
+.cuotation, .cuotation_text, .frames {
+    margin-top: 46px;
+    margin-left: 90px;
+}
+.cuotation1 {
+    margin-left: 90px;
+}
+.quality_button {
+    margin-left: 40px;
+}
+.build_container {
+    /* position: relative; */
+    width: 85%;
+    height: 412px;
+    background-color: rgb(28, 63, 58);
+    margin-left: 8%;
+    margin-top: 200px;
+}
+.build_image {
+    /* position: absolute; */
+    margin-left: 65%;
+    margin-top: -210px;
+}
+.container_our {
+    display: flex;
+    width: 35%;
+    margin-top: -200px;
+    margin-left: 100px;
+}
+.build_text {
+    width: 1000px;
+    margin-top: -55px;
+}
+.great {
+    margin-top: -40px;
+    color: rgb(121, 100, 11);
+}
+.container_our h1 {
+    font-size: 60px;
+    color: white;
+}
+.build_paragraf {
+    margin-right: -200px;
+    color: white;
+}
+.build_button {
+    margin-top: 85px;
+    background-color: rgb(28, 63, 58);
+    border: 1px solid white;
+    color: white;
+}
+.button_image {
+    margin-bottom: -7px;
+}
+.text_container {
+    display: flex;
+    margin: 50px 0 0 120px;
+}
+.text_container h1 {
+    margin: 50px 0 0 30px;
+}
